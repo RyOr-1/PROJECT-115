@@ -1,0 +1,14 @@
+.mainDiv {
+    background-color: #e0e9dd;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #95a3a4;
+}
+
+#animalImg {
+    width: 400;
+    height: 400;
+}
